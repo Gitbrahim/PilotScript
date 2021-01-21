@@ -1,0 +1,22 @@
+zephyr/lib/libc/minimal/CMakeFiles/lib__libc__minimal.dir/source/stdout/stdout_console.c.obj: \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/source/stdout/stdout_console.c \
+ C:/nRFsdk/ncs/nrf/samples/nrf9160/mqtt_simple/build_nrf9160_pca10090ns/zephyr/include/generated/autoconf.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdio.h \
+ C:/nRFsdk/ncs/zephyr/include/toolchain.h \
+ C:/nRFsdk/ncs/zephyr/include/toolchain/gcc.h \
+ C:/nRFsdk/ncs/zephyr/include/toolchain/common.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdbool.h \
+ c:\gnuarmemb\lib\gcc\arm-none-eabi\7.3.1\include\stdarg.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/bits/restrict.h \
+ c:\gnuarmemb\lib\gcc\arm-none-eabi\7.3.1\include\stddef.h \
+ C:/nRFsdk/ncs/zephyr/include/misc/libc-hooks.h \
+ zephyr/include/generated/syscalls/libc-hooks.h \
+ zephyr/include/generated/syscall_list.h \
+ C:/nRFsdk/ncs/zephyr/include/zephyr/types.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdint.h \
+ zephyr/include/generated/syscall_macros.h \
+ C:/nRFsdk/ncs/zephyr/include/syscall.h \
+ C:/nRFsdk/ncs/zephyr/include/arch/syscall.h \
+ C:/nRFsdk/ncs/zephyr/include/arch/arm/syscall.h \
+ C:/nRFsdk/ncs/zephyr/kernel/include/syscall_handler.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/string.h

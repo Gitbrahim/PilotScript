@@ -1,0 +1,32 @@
+spm/zephyr/CMakeFiles/spm_zephyr.dir/C_/nRFsdk/ncs/nrf/subsys/spm/secure_services.c.obj: \
+ C:/nRFsdk/ncs/nrf/subsys/spm/secure_services.c \
+ C:/nRFsdk/ncs/nrf/samples/nrf9160/mqtt_simple/build_nrf9160_pca10090ns/spm/zephyr/include/generated/autoconf.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/errno.h \
+ C:/nRFsdk/ncs/zephyr/include/misc/errno_private.h \
+ C:/nRFsdk/ncs/zephyr/include/toolchain.h \
+ C:/nRFsdk/ncs/zephyr/include/toolchain/gcc.h \
+ C:/nRFsdk/ncs/zephyr/include/toolchain/common.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdbool.h \
+ spm/zephyr/include/generated/syscalls/errno_private.h \
+ spm/zephyr/include/generated/syscall_list.h \
+ C:/nRFsdk/ncs/zephyr/include/zephyr/types.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdint.h \
+ spm/zephyr/include/generated/syscall_macros.h \
+ C:/nRFsdk/ncs/zephyr/include/syscall.h \
+ C:/nRFsdk/ncs/zephyr/include/arch/syscall.h \
+ C:/nRFsdk/ncs/zephyr/include/arch/arm/syscall.h \
+ C:/nRFsdk/ncs/zephyr/arch/arm/include/cortex_m/tz.h \
+ c:\gnuarmemb\lib\gcc\arm-none-eabi\7.3.1\include\arm_cmse.h \
+ c:\gnuarmemb\lib\gcc\arm-none-eabi\7.3.1\include\stddef.h \
+ C:/nRFsdk/ncs/zephyr/include/misc/reboot.h \
+ spm/zephyr/include/generated/autoconf.h \
+ C:/nRFsdk/ncs/nrf/include/secure_services.h \
+ spm/zephyr/modules/nrfxlib/nrf_security/include/nrf-config.h \
+ C:/nRFsdk/ncs/mbedtls/include/mbedtls/check_config.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/limits.h \
+ C:/nRFsdk/ncs/mbedtls/include/mbedtls/platform.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdio.h \
+ c:\gnuarmemb\lib\gcc\arm-none-eabi\7.3.1\include\stdarg.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/bits/restrict.h \
+ C:/nRFsdk/ncs/nrfxlib/crypto/nrf_cc310_mbedcrypto/include/mbedtls/platform_alt.h \
+ C:/nRFsdk/ncs/mbedtls/include/mbedtls/entropy_poll.h

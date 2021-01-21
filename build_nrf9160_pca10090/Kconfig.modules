@@ -1,0 +1,8 @@
+osource "C:/nRFsdk/ncs/nrf/Kconfig.nrf"
+
+osource "C:/nRFsdk/ncs/mcuboot/zephyr/Kconfig"
+
+osource "C:/nRFsdk/ncs/modules/lib/mcumgr/Kconfig"
+
+osource "C:/nRFsdk/ncs/nrfxlib/Kconfig.nrfxlib"
+

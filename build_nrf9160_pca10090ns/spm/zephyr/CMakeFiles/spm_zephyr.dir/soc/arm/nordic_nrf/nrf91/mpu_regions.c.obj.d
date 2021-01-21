@@ -1,0 +1,28 @@
+spm/zephyr/CMakeFiles/spm_zephyr.dir/soc/arm/nordic_nrf/nrf91/mpu_regions.c.obj: \
+ C:/nRFsdk/ncs/zephyr/soc/arm/nordic_nrf/nrf91/mpu_regions.c \
+ C:/nRFsdk/ncs/nrf/samples/nrf9160/mqtt_simple/build_nrf9160_pca10090ns/spm/zephyr/include/generated/autoconf.h \
+ C:/nRFsdk/ncs/zephyr/include/misc/slist.h \
+ c:\gnuarmemb\lib\gcc\arm-none-eabi\7.3.1\include\stddef.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdbool.h \
+ C:/nRFsdk/ncs/zephyr/include/misc/list_gen.h \
+ C:/nRFsdk/ncs/zephyr/include/misc/util.h \
+ C:/nRFsdk/ncs/zephyr/include/zephyr/types.h \
+ C:/nRFsdk/ncs/zephyr/lib/libc/minimal/include/stdint.h \
+ C:/nRFsdk/ncs/zephyr/include/arch/arm/cortex_m/mpu/arm_mpu.h \
+ C:/nRFsdk/ncs/zephyr/include/arch/arm/cortex_m/mpu/arm_mpu_v8m.h \
+ C:/nRFsdk/ncs/zephyr/include/arch/arm/cortex_m/cmsis.h \
+ C:/nRFsdk/ncs/zephyr/soc/arm/nordic_nrf/nrf91/soc.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/nordic/nrfx/mdk/nrf.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/nordic/nrfx/mdk/nrf9160.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/cmsis/Include/core_cm33.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/cmsis/Include/cmsis_version.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/cmsis/Include/cmsis_compiler.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/cmsis/Include/cmsis_gcc.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/cmsis/Include/mpu_armv8.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/nordic/nrfx/mdk/system_nrf9160.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/nordic/nrfx/mdk/nrf9160_bitfields.h \
+ C:/nRFsdk/ncs/zephyr/ext/hal/nordic/nrfx/mdk/compiler_abstraction.h \
+ C:/nRFsdk/ncs/zephyr/include/generated_dts_board.h \
+ spm/zephyr/include/generated/generated_dts_board_unfixed.h \
+ spm/zephyr/include/generated/generated_dts_board_fixups.h \
+ c:\nrfsdk\ncs\zephyr\ext\hal\nordic\nrfx_config_nrf9160.h
